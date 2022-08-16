@@ -252,7 +252,7 @@ if __name__ == '__main__':
     ################## Svae the scattering matrices data ###################
     ##### gloable properties
 
-    combiner_MMI2X1_DL = 490
+    combiner_MMI2X1_DL = 500
     # combiner_MMI2X1_DL0 = 4898# Delay line length in um
     # combiner_MMI2X1_DL1 = 4898
     # combiner_MMI2X1_DL2 = 4898
